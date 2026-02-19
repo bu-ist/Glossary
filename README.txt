@@ -1,3 +1,5 @@
+This cloned repo is not being used, we are pulling the 3rd party plugin directly from https://wordpress.org/plugins/glossary-by-codeat/
+
 === Glossary ===
 Contributors: codeat, iGenius, mte90
 Donate link: http://codeat.com/
